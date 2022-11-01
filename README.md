@@ -15,4 +15,3 @@ Ce projet est le n°9 du parcours [**Développeur Front-End**](https://openclass
 - Rédiger un plan de test end-to-end manuel
 - Ecrire des tests d'intégration avec JavaScript
 
-
